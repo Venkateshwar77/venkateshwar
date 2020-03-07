@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15297" started-at="2020-03-07T10:14:57Z" finished-at="2020-03-07T10:15:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15297" started-at="2020-03-07T10:14:57Z" finished-at="2020-03-07T10:15:12Z">
+      <class name="pckg.Crossb">
+        <test-method status="PASS" signature="CrB(java.lang.String)[pri:0, instance:pckg.Crossb@3b1d11]" name="CrB" duration-ms="15281" started-at="2020-03-07T10:14:57Z" finished-at="2020-03-07T10:15:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrB -->
+      </class> <!-- pckg.Crossb -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
